@@ -1,0 +1,2 @@
+[default.general]
+chip = "STM32C031C6Tx"
